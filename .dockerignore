@@ -1,0 +1,8 @@
+README.md
+.gitattributes
+.gitignore
+.idea
+.mvn
+docker-compose.yaml
+Dockerfile
+HELP.md
