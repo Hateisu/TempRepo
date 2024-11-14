@@ -16,7 +16,7 @@ import java.util.NoSuchElementException;
 @RestController
 public class ZooController {
     private static final String ZooMapping = "/animal";
-    private static final String ZooMappingWithId = "/animal/{id}";
+    private static final String ZooMappingWithId = "/animals/{id}";
     private static final String ZooMappingAll = "/animals";
 
     @Autowired
