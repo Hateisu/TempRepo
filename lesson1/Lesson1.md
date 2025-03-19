@@ -1,7 +1,7 @@
 # Tasks lesson 1
 
 [Link to Live](https://go.dev/play/p/LXNCDchapOz)
-
+Some update
 ```Golang
 package main
 
